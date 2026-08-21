@@ -1,5 +1,0 @@
-PUSH 10
-PUSH 7
-ADD
-PRINT "Hello, World"
-HALT
