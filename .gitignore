@@ -1,0 +1,19 @@
+# Compiler build artifacts
+#*.asm
+#*.o
+#*.obj
+#*.exe
+#*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
